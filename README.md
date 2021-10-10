@@ -1,1 +1,1 @@
-Hi, I'm Gabor, IT engineer (SW developer/tester) :)
+Hi, I'm Gabor, IT engineer (SW developer/test engineer) :)
